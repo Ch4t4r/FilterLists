@@ -251,5 +251,11 @@
     "homeUrl": "https://www.reddit.com/r/pfBlockerNG/",
     "isAbpSubscribable": false,
     "name": "pfBlockerNG"
+  },
+  {
+    "id": 40,
+    "homeUrl": "https://nebulo.app/source",
+    "isAbpSubscribable": false,
+    "name": "Nebulo"
   }
 ]
